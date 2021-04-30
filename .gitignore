@@ -1,0 +1,4 @@
+.vscode/
+__pycache__/
+/dist/
+/mj_azure_iot_pnp_device.egg-info/
