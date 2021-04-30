@@ -5,7 +5,7 @@ setup(
     version='0.5',
     description='Assist IoT Plug and Play Library for the Azure IoT Device SDK for Python',
     license='MIT License',
-    url='https://github.com/matsujirushi/mj-azure-iot-pnp-device',
+    url='https://github.com/matsujirushi/mj-azure-iot-pnp-device-python',
     author='Takashi Matsuoka (matsujirushi)',
     author_email='matsujirushi@live.jp',
     classifiers=[
