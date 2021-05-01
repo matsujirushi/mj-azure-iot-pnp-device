@@ -1,0 +1,2 @@
+mj-azure-iot-pnp-device
+varname
